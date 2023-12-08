@@ -3,12 +3,12 @@ package h2demo;
 import org.h2.tools.Console;
 
 import java.sql.*;
-import java.util.Scanner;
 
+/**
+ * A simple java code to use h2 database and view the tables in h2 console
+ */
 public class H2DemoClass {
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) throws SQLException {
         // JDBC URL for H2 in-memory database
         String jdbcUrl = "jdbc:h2:mem:testdb";
@@ -28,11 +28,8 @@ public class H2DemoClass {
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
                 String name = resultSet.getString("name");
-                Scanner sc = new Scanner(System.in);
                 System.out.println("ID: " + id + ", Name: " + name);
 
-                String names = sc.next();
-                System.out.println("Name"+name);
             }
 
         } catch (SQLException e) {
