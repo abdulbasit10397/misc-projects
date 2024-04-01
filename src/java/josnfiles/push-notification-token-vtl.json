@@ -1,0 +1,17 @@
+{
+  "TableName": "sit_push_notification_token",
+  "ConditionExpression": "attribute_exists(#device_id) OR #customer_id = :customerId",
+  "KeyConditionExpression": "#device_id = :deviceId",
+  "ExpressionAttributeNames": {
+    "#device_id": "device_id",
+    "#customer_id": "cin"
+  },
+  "ExpressionAttributeValues": {
+    ":deviceId": {
+      "S": "$input.params('deviceId')"
+    },
+    ":customerId": {
+      "S": "$input.params('customerId')"
+    }
+  }
+}
