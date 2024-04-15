@@ -1,0 +1,100 @@
+{"customerId": "C001", "deviceId": "D001", "deviceType": "ios", "model": "iPhone X", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C002", "deviceId": "D002", "deviceType": "android", "model": "Samsung Galaxy S10", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C003", "deviceId": "D003", "deviceType": "ios", "model": "iPhone 11", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C004", "deviceId": "D004", "deviceType": "android", "model": "Google Pixel 4", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C005", "deviceId": "D005", "deviceType": "ios", "model": "iPhone 12", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C006", "deviceId": "D006", "deviceType": "android", "model": "OnePlus 8 Pro", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C007", "deviceId": "D007", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C008", "deviceId": "D008", "deviceType": "android", "model": "Samsung Galaxy Note 20", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C009", "deviceId": "D009", "deviceType": "ios", "model": "iPhone SE", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C010", "deviceId": "D010", "deviceType": "android", "model": "Google Pixel 5", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C011", "deviceId": "D011", "deviceType": "ios", "model": "iPhone 8", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C012", "deviceId": "D012", "deviceType": "android", "model": "OnePlus 7T", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C013", "deviceId": "D013", "deviceType": "ios", "model": "iPhone 11 Pro", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C014", "deviceId": "D014", "deviceType": "android", "model": "Samsung Galaxy S20", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C015", "deviceId": "D015", "deviceType": "ios", "model": "iPhone XS", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C016", "deviceId": "D016", "deviceType": "android", "model": "Google Pixel 3", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C017", "deviceId": "D017", "deviceType": "ios", "model": "iPhone 7", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C018", "deviceId": "D018", "deviceType": "android", "model": "OnePlus 6T", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C019", "deviceId": "D019", "deviceType": "ios", "model": "iPhone 6S", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C020", "deviceId": "D020", "deviceType": "android", "model": "Samsung Galaxy A51", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C021", "deviceId": "D021", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C022", "deviceId": "D022", "deviceType": "android", "model": "Google Pixel 4a", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C023", "deviceId": "D023", "deviceType": "ios", "model": "iPhone 12 Pro", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C024", "deviceId": "D024", "deviceType": "android", "model": "OnePlus Nord", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C025", "deviceId": "D025", "deviceType": "ios", "model": "iPhone 8 Plus", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C026", "deviceId": "D026", "deviceType": "android", "model": "Samsung Galaxy S9", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C027", "deviceId": "D027", "deviceType": "ios", "model": "iPhone SE 2020", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C028", "deviceId": "D028", "deviceType": "android", "model": "Google Pixel 3a", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C029", "deviceId": "D029", "deviceType": "ios", "model": "iPhone 7 Plus", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C030", "deviceId": "D030", "deviceType": "android", "model": "OnePlus 7", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C031", "deviceId": "D031", "deviceType": "ios", "model": "iPhone XS Max", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C032", "deviceId": "D032", "deviceType": "android", "model": "Samsung Galaxy Note 10", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C033", "deviceId": "D033", "deviceType": "ios", "model": "iPhone 6", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C034", "deviceId": "D034", "deviceType": "android", "model": "Google Pixel 2", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C035", "deviceId": "D035", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C036", "deviceId": "D036", "deviceType": "android", "model": "OnePlus 6", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C037", "deviceId": "D037", "deviceType": "ios", "model": "iPhone 5S", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C038", "deviceId": "D038", "deviceType": "android", "model": "Samsung Galaxy S8", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C039", "deviceId": "D039", "deviceType": "ios", "model": "iPhone 12 Mini", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C040", "deviceId": "D040", "deviceType": "android", "model": "Google Pixel 4 XL", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C041", "deviceId": "D041", "deviceType": "ios", "model": "iPhone 8", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C042", "deviceId": "D042", "deviceType": "android", "model": "OnePlus 7 Pro", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C043", "deviceId": "D043", "deviceType": "ios", "model": "iPhone 11 Pro Max", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C044", "deviceId": "D044", "deviceType": "android", "model": "Samsung Galaxy A71", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C045", "deviceId": "D045", "deviceType": "ios", "model": "iPhone 7", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C046", "deviceId": "D046", "deviceType": "android", "model": "Google Pixel 3 XL", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C047", "deviceId": "D047", "deviceType": "ios", "model": "iPhone XS", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C048", "deviceId": "D048", "deviceType": "android", "model": "OnePlus 6T", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C049", "deviceId": "D049", "deviceType": "ios", "model": "iPhone SE", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C050", "deviceId": "D050", "deviceType": "android", "model": "Samsung Galaxy S9 Plus", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C051", "deviceId": "D051", "deviceType": "ios", "model": "iPhone 6S Plus", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C052", "deviceId": "D052", "deviceType": "android", "model": "Google Pixel 5", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C053", "deviceId": "D053", "deviceType": "ios", "model": "iPhone X", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C054", "deviceId": "D054", "deviceType": "android", "model": "OnePlus 5", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C055", "deviceId": "D055", "deviceType": "ios", "model": "iPhone 12", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C056", "deviceId": "D056", "deviceType": "android", "model": "Samsung Galaxy Note 9", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C057", "deviceId": "D057", "deviceType": "ios", "model": "iPhone 8 Plus", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C058", "deviceId": "D058", "deviceType": "android", "model": "Google Pixel 4a", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C059", "deviceId": "D059", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C060", "deviceId": "D060", "deviceType": "android", "model": "OnePlus 7T", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C061", "deviceId": "D061", "deviceType": "ios", "model": "iPhone 11", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C062", "deviceId": "D062", "deviceType": "android", "model": "Samsung Galaxy S10", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C063", "deviceId": "D063", "deviceType": "ios", "model": "iPhone 5", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C064", "deviceId": "D064", "deviceType": "android", "model": "Google Pixel 3a XL", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C065", "deviceId": "D065", "deviceType": "ios", "model": "iPhone 7", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C066", "deviceId": "D066", "deviceType": "android", "model": "OnePlus 6", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C067", "deviceId": "D067", "deviceType": "ios", "model": "iPhone XS Max", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C068", "deviceId": "D068", "deviceType": "android", "model": "Samsung Galaxy A50", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C069", "deviceId": "D069", "deviceType": "ios", "model": "iPhone 11 Pro", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C070", "deviceId": "D070", "deviceType": "android", "model": "Google Pixel 2 XL", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C071", "deviceId": "D071", "deviceType": "ios", "model": "iPhone 6 Plus", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C072", "deviceId": "D072", "deviceType": "android", "model": "OnePlus 7 Pro", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C073", "deviceId": "D073", "deviceType": "ios", "model": "iPhone SE 2020", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C074", "deviceId": "D074", "deviceType": "android", "model": "Samsung Galaxy S8 Plus", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C075", "deviceId": "D075", "deviceType": "ios", "model": "iPhone 6S", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C076", "deviceId": "D076", "deviceType": "android", "model": "Google Pixel 4", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C077", "deviceId": "D077", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C078", "deviceId": "D078", "deviceType": "android", "model": "OnePlus 6T", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C079", "deviceId": "D079", "deviceType": "ios", "model": "iPhone 8", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C080", "deviceId": "D080", "deviceType": "android", "model": "Samsung Galaxy Note 8", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C081", "deviceId": "D081", "deviceType": "ios", "model": "iPhone X", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C082", "deviceId": "D082", "deviceType": "android", "model": "Google Pixel 3", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C083", "deviceId": "D083", "deviceType": "ios", "model": "iPhone 7 Plus", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C084", "deviceId": "D084", "deviceType": "android", "model": "OnePlus 5T", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C085", "deviceId": "D085", "deviceType": "ios", "model": "iPhone 12 Pro", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C086", "deviceId": "D086", "deviceType": "android", "model": "Samsung Galaxy S7", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C087", "deviceId": "D087", "deviceType": "ios", "model": "iPhone SE", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C088", "deviceId": "D088", "deviceType": "android", "model": "Google Pixel 3a", "manufacturer": "Google", "notificationType": "sms"}
+{"customerId": "C089", "deviceId": "D089", "deviceType": "ios", "model": "iPhone 8", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C090", "deviceId": "D090", "deviceType": "android", "model": "OnePlus 7T Pro", "manufacturer": "OnePlus", "notificationType": "push"}
+{"customerId": "C091", "deviceId": "D091", "deviceType": "ios", "model": "iPhone XS", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C092", "deviceId": "D092", "deviceType": "android", "model": "Samsung Galaxy A70", "manufacturer": "Samsung", "notificationType": "sms"}
+{"customerId": "C093", "deviceId": "D093", "deviceType": "ios", "model": "iPhone 11 Pro Max", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C094", "deviceId": "D094", "deviceType": "android", "model": "Google Pixel 4 XL", "manufacturer": "Google", "notificationType": "push"}
+{"customerId": "C095", "deviceId": "D095", "deviceType": "ios", "model": "iPhone 6", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C096", "deviceId": "D096", "deviceType": "android", "model": "OnePlus 6", "manufacturer": "OnePlus", "notificationType": "sms"}
+{"customerId": "C097", "deviceId": "D097", "deviceType": "ios", "model": "iPhone XR", "manufacturer": "Apple", "notificationType": "push"}
+{"customerId": "C098", "deviceId": "D098", "deviceType": "android", "model": "Samsung Galaxy S20 Ultra", "manufacturer": "Samsung", "notificationType": "push"}
+{"customerId": "C099", "deviceId": "D099", "deviceType": "ios", "model": "iPhone 5C", "manufacturer": "Apple", "notificationType": "email"}
+{"customerId": "C100", "deviceId": "D100", "deviceType": "android", "model": "Google Pixel 5", "manufacturer": "Google", "notificationType": "sms"}
